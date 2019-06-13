@@ -1,1 +1,1 @@
-# An example - git
+# An example of a git workflow
