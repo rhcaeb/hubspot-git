@@ -1,1 +1,3 @@
 # This repo will require a README.md file
+# The purpose of this git repo was merely to provide an example of a git workflow to a colleague.
+# 
